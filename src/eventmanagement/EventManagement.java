@@ -95,3 +95,7 @@ public class EventManagement {
        System.out.println("\n" + getCheckInMessage(checkName, checkID));
     }
 }
+
+
+
+// reference 2025
